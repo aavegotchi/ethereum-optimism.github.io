@@ -1,0 +1,14 @@
+{
+  "name": "Aavegotchi (GHST)",
+  "symbol": "GHST",
+  "decimals": 18,
+  "description": "GHST is the governance token for the Aavegotchi platform and can be used to vote in governance proposal, used for purchasing NFTs, and also stake for raffle tickets.",
+  "website": "https://dapp.aavegotchi.com/",
+  "twitter": "@aavegotchi",
+  "nobridge": true,
+  "tokens": {
+    "ethereum": {
+      "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+    }
+  }
+}
